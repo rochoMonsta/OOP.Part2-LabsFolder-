@@ -1,0 +1,6 @@
+G:\All\Documents\6 семестр\ООП\Lab#3\Lab3\bin\Debug\Lab3.exe.config
+G:\All\Documents\6 семестр\ООП\Lab#3\Lab3\bin\Debug\Lab3.exe
+G:\All\Documents\6 семестр\ООП\Lab#3\Lab3\bin\Debug\Lab3.pdb
+G:\All\Documents\6 семестр\ООП\Lab#3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+G:\All\Documents\6 семестр\ООП\Lab#3\Lab3\obj\Debug\Lab3.exe
+G:\All\Documents\6 семестр\ООП\Lab#3\Lab3\obj\Debug\Lab3.pdb
