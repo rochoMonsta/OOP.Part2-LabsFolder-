@@ -1,0 +1,6 @@
+C:\Users\rocho\Desktop\Лабораторні роботи ООП (Віка) V2\Lab#4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\rocho\Desktop\Лабораторні роботи ООП (Віка) V2\Lab#4\Lab4\bin\Debug\Lab4.exe
+C:\Users\rocho\Desktop\Лабораторні роботи ООП (Віка) V2\Lab#4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\rocho\Desktop\Лабораторні роботи ООП (Віка) V2\Lab#4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Лабораторні роботи ООП (Віка) V2\Lab#4\Lab4\obj\Debug\Lab4.exe
+C:\Users\rocho\Desktop\Лабораторні роботи ООП (Віка) V2\Lab#4\Lab4\obj\Debug\Lab4.pdb
