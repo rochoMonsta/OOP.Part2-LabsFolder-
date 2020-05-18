@@ -8,14 +8,14 @@ namespace Lab4
         {
             Person person = new Person()
             {
-                Name = "Софiя",
-                Surname = "Cулима",
+                Name = "Чолкан",
+                Surname = "Роман",
                 Age = 20
             };
             Person person1 = new Person()
             {
-                Name = "Ольга",
-                Surname = "Корiнь",
+                Name = "Соломія",
+                Surname = "Сорокотяга",
                 Age = 20
             };
             Juice juice = new Juice()
